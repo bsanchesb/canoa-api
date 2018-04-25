@@ -2,7 +2,7 @@
 
 return [
     'ApiRequest' => [
-        'debug' => true,
+        'debug' => false,
         'responseType' => 'json',
         'xmlResponseRootNode' => 'response',
     	'responseFormat' => [
